@@ -1,0 +1,7 @@
+1,clientone,clientone@pass,4000
+2,clienttwo,clienttwo@pass,3400
+3,clientthree,client@pass,4000
+4,clientfour,clientfr@pass,4000
+5,clientfive,clientfv@pass,4000
+6,clientsix,clientsix@pas,3000
+7,clientseven,clientseven@pass,3000

@@ -1,0 +1,21 @@
+# ninja log v6
+11	671	7525263904581615	CMakeFiles/ProjectV2.dir/main.cpp.obj	eb26ba916e75d19c
+63	682	7525263905096667	CMakeFiles/ProjectV2.dir/ClientValidation.cpp.obj	5e1e001019b3c499
+29	775	7525263904763005	CMakeFiles/ProjectV2.dir/Employee.cpp.obj	579f35382a23e3c9
+18	786	7525263904651843	CMakeFiles/ProjectV2.dir/Admin.cpp.obj	4b884e46a65fbf86
+46	793	7525263904940417	CMakeFiles/ProjectV2.dir/BalanceServices.cpp.obj	899093dbaf2918fd
+24	800	7525263904712995	CMakeFiles/ProjectV2.dir/AdminServices.cpp.obj	5132d50a234120c6
+21	808	7525263904677011	CMakeFiles/ProjectV2.dir/AdminManager.cpp.obj	15b2ae0a19e2430b
+56	809	7525263905036502	CMakeFiles/ProjectV2.dir/ClientManager.cpp.obj	af8e792a7fede361
+74	819	7525263905217492	CMakeFiles/ProjectV2.dir/EmployeeManager.cpp.obj	f0ac7d3fe1c55aa
+68	823	7525263905152045	CMakeFiles/ProjectV2.dir/EmployeeFunctionalitiesForScreen.cpp.obj	245c08471f0b0ce6
+51	825	7525263904980677	CMakeFiles/ProjectV2.dir/Client.cpp.obj	9fc2b1c3c61df6a4
+41	885	7525263904889469	CMakeFiles/ProjectV2.dir/Parser.cpp.obj	38ab60766ba88eef
+33	897	7525263904798187	CMakeFiles/ProjectV2.dir/FileManager.cpp.obj	cc03593547aeb733
+37	1091	7525263904840470	CMakeFiles/ProjectV2.dir/FilesHelper.cpp.obj	6631c8dd572bb62a
+682	1163	7525263911295589	CMakeFiles/ProjectV2.dir/EmployeeValidation.cpp.obj	c5b2d2bfe1f16107
+776	1235	7525263912225885	CMakeFiles/ProjectV2.dir/Person.cpp.obj	260f70ea371c51a6
+674	1249	7525263911220403	CMakeFiles/ProjectV2.dir/EmployeeServices.cpp.obj	1a4c682f181c90a3
+793	1253	7525263912403214	CMakeFiles/ProjectV2.dir/Validate.cpp.obj	31b0cad79880a4bf
+786	1310	7525263912337164	CMakeFiles/ProjectV2.dir/Screens.cpp.obj	8113985dc302579e
+1311	1522	7525263917580766	ProjectV2.exe	a1bb72b9c1654165
